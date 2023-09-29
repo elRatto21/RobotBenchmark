@@ -1,0 +1,12 @@
+{
+  "name": "robotbenchmark",
+  "version": "1.0.0",
+  "description": "HumanBenchmark Scripts",
+  "type": "module",
+  "author": "elRatto21",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^9.1.0",
+    "robotjs": "^0.6.0"
+  }
+}
