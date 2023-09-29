@@ -6,6 +6,8 @@ To run the scripts you need Python (or Node for Aim Trainer).
 
 Install all necessary packages using ``pip install -r requirements.txt`` and ``npm install``
 
+Check out the bot's stats [here](https://humanbenchmark.com/users/65158f8495940d0008b497a6)
+
 <br>
 
 ## Tests and scores
